@@ -13,3 +13,4 @@ Download from https://github.com/andreaginn/HoriseonSite. To view the completed 
 
 Credit for original code to Xandromus on Github
 Source: https://github.com/coding-boot-camp/urban-octo-telegram
+Screenshot of page: https://github.com/andreaginn/HoriseonSite/blob/main/assignment.jpg
