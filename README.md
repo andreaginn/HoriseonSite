@@ -6,7 +6,7 @@ Provided with acceptance criteria, my motivation was to refactor the starter cod
 
 ## Installation
 
-Download from https://github.com/andreaginn/HoriseonSite. To view the completed webpage, open the index.html document in a browser.
+Site deployed at https://andreaginn.github.io/HoriseonSite/.
 
 
 ## Credits
@@ -14,5 +14,4 @@ Download from https://github.com/andreaginn/HoriseonSite. To view the completed 
 Credit for original code to Xandromus on Github
 Source: https://github.com/coding-boot-camp/urban-octo-telegram
 
-## Screenshot of page
-https://github.com/andreaginn/HoriseonSite/blob/main/assignment.jpg
+![my image](horiseon-site-screenshot.jpg)
